@@ -1,0 +1,187 @@
+[
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/main.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/main.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/animate.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/animate.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/animate.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/array_functions/array_functions.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/array_functions/array_functions.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/array_functions/array_functions.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/coord_translation.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/coord_translation.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/coord_translation.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/graph.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/graph.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/graph.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/plot.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/plot.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/plot.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/sidebar.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/sidebar.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/sidebar.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/stub/stub.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/stub/stub.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/stub/stub.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/system.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/system.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/system.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/tokenizer.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/tokenizer.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/tokenizer.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/main.dir/includes/vector/vector_class.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/vector/vector_class.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/vector/vector_class.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/_tests/_test_files/basic_test.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/_tests/_test_files/basic_test.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/animate.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/animate.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/animate.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/array_functions/array_functions.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/array_functions/array_functions.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/array_functions/array_functions.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/coord_translation.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/coord_translation.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/coord_translation.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/graph.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/graph.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/graph.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/plot.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/plot.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/plot.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/sidebar.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/sidebar.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/sidebar.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/stub/stub.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/stub/stub.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/stub/stub.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/system.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/system.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/system.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/tokenizer.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/tokenizer.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/tokenizer.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/basic_test.dir/includes/vector/vector_class.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/vector/vector_class.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/vector/vector_class.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/_tests/_test_files/testB.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/_tests/_test_files/testB.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/animate.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/animate.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/animate.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/array_functions/array_functions.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/array_functions/array_functions.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/array_functions/array_functions.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/coord_translation.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/coord_translation.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/coord_translation.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/graph.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/graph.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/graph.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/plot.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/plot.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/plot.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/sidebar.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/sidebar.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/sidebar.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/stub/stub.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/stub/stub.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/stub/stub.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/system.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/system.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/system.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/tokenizer.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/tokenizer.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/tokenizer.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -isystem /usr/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -std=gnu++11 -o CMakeFiles/testB.dir/includes/vector/vector_class.cpp.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/vector/vector_class.cpp",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/includes/vector/vector_class.cpp"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googlemock/include -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googlemock -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googlemock/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googlemock -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/SFML_INCLUDE_DIR -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/include -isystem /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/nguyennguyen/Documents/GitHub/99_00_final_project-soowoopwin/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
